@@ -77,7 +77,7 @@ Este projeto foi preparado para rodar em pipelines de **CI/CD**, onde:
 
 ### Objetivo do Projeto 
 
-Este projeto tem caráter educacional e demonstrativo, sendo utilizado como:
+Este projeto tem objetivo educacional e demonstrativo, sendo utilizado como:
 
 - Estudo prático de Java moderno
 - Exercício de testes automatizados
