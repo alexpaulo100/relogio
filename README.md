@@ -4,6 +4,8 @@ Projeto Java desenvolvido com o objetivo de praticar **orientação a objetos**,
 
 O sistema realiza a conversão de horários entre os formatos **24 horas (BR)** e **12 horas (US)**, utilizando `enum` para representar períodos (`AM` / `PM`) e garantindo consistência através de testes automatizados.
 
+[![CI - Maven Build](https://github.com/alexpaulo100/relogio/actions/workflows/ci.yml/badge.svg)](https://github.com/alexpaulo100/relogio/actions/workflows/ci.yml)
+
 ---
 
 ## Tecnologias Utilizadas
