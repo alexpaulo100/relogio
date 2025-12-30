@@ -26,15 +26,16 @@ O sistema realiza a conversão de horários entre os formatos **24 horas (BR)** 
 │ ├── main
 │ │ └── java
 │ │ └── br/com/relogio
+│ │ ├── BRClock.java
 │ │ ├── Clock.java
-│ │ ├── BRLClock.java
-│ │ ├── USClock.java
-│ │ └── Period.java
+│ │ ├── Main.java
+│ │ ├── Period.java
+│ │ └── USClock.java
 │ └── test
 │ └── java
 │ └── br/com/relogio
-│ ├── USClockTest.java
-│ └── ClockConversionTest.java
+│ ├── ClockConversionTest.java
+│ └── USClockTest.java
 └── target
 ```
 
